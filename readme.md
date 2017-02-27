@@ -3,12 +3,12 @@ This is a quick  node.js appfor the purposes of demonstrating a basic CI/CD work
 This Project Is Included In the Exercise Files  
 and @  
 **GitHub:**   
-https://github.com/bTreePress/Docker-With-Continous-Integration
+https://github.com/cromero9/testRepotForCIDemo
 
 ## Instructions  
 
 download or pull to your local computer
-https://github.com/bTreePress/Docker-With-Continous-Integration.git
+https://github.com/cromero9/testRepotForCIDemo.git
 
 In the root of the project folder run 
 ```javascript
