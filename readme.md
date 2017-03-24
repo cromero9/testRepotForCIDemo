@@ -5,7 +5,7 @@ and @
 **GitHub:**   
 https://github.com/cromero9/testRepotForCIDemo
 
-## Instructions  
+## Instruction  
 
 download or pull to your local computer
 https://github.com/cromero9/testRepotForCIDemo.git
